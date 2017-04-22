@@ -1,0 +1,6 @@
+D:\Swan\Pather\Pather\bin\Debug\Pather.exe.config
+D:\Swan\Pather\Pather\bin\Debug\Pather.exe
+D:\Swan\Pather\Pather\bin\Debug\Pather.pdb
+D:\Swan\Pather\Pather\obj\Debug\Pather.csprojResolveAssemblyReference.cache
+D:\Swan\Pather\Pather\obj\Debug\Pather.exe
+D:\Swan\Pather\Pather\obj\Debug\Pather.pdb
